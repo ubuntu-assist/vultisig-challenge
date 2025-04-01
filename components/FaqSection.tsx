@@ -80,7 +80,7 @@ const FAQSection: React.FC = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6 }}
           >
-            Other{' '}
+            Frequently{' '}
             <span className='bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-teal-300'>
               Asked
             </span>{' '}
