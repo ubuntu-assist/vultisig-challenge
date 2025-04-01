@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-app",
+  "name": "vultisig",
   "compatibility_date": "2025-04-01",
   "assets": {
     "directory": "./.next/static"
